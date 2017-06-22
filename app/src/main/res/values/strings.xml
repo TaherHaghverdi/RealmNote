@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Realm Note</string>
+
+    //MainActivity
+    <string name="toolbar_main">Folders</string>
+
+    //NoteActivity
+    <string name="toolbar_note">Notes</string>
+
+    //FolderNameDialog
+    <string name="dialog_folder_name_message">Enter folder\'s name</string>
+    <string name="empty_err">Please enter folder\'s name</string>
+</resources>
